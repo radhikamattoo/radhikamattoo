@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Radhika (she/her) and I'm a Software Engineer based in NYC. I'm passionate about backend architecture, database design, and (slowly) teaching myself more about machine learning. 
+
+### A little about me
+
+- 🔭 I currently work as a Senior Software Engineer at **[Behold.ai](https://www.behold.ai)**, a med-tech company that uses deep learning to recognize anomalies in medical images like Chest X-rays and CTs.
+- 📫 Reach me at radhika095@gmail.com
+- ⚡ Fun fact: I own a 3-legged triple hound mix named Baby and boy is she a sweetheart. 
+
 <!--
 **radhikamattoo/radhikamattoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
