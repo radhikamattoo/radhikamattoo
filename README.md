@@ -5,6 +5,7 @@ My name is Radhika (she/her) and I'm a Software Engineer based in NYC. I'm passi
 ### A little about me
 
 - 🔭 I currently work as a Senior Software Engineer at **[Behold.ai](https://www.behold.ai)**, a med-tech company that uses deep learning to recognize anomalies in medical images like Chest X-rays and CTs.
+- 🌱 I’m very passionate about data privacy, preventing the unethical use of AI (I'm looking at you, **[ICE](https://www.washingtonpost.com/technology/2019/07/07/fbi-ice-find-state-drivers-license-photos-are-gold-mine-facial-recognition-searches/)**), and breaking down the barrier to entry non-technical people face when it comes to understanding these  issues (because they effect us all).
 - 📫 Reach me at radhika095@gmail.com
 - ⚡ Fun fact: I own a 3-legged triple hound mix named Baby and boy is she a sweetheart. 
 
