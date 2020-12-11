@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Radhika (she/her) and I'm a Software Engineer based in NYC. I'm passionate about backend architecture, database design, and am (slowly) teaching myself more about machine learning. 
+My name is Radhika (she/her) and I'm a Software Engineer based in NYC. I'm passionate about backend architecture, database design, and am currently teaching myself Rust! 
 
 ### A little about me
 
